@@ -1,0 +1,51 @@
+
+body{
+    
+    background:url(http://st.depositphotos.com/2275299/2501/v/450/depositphotos_25015167-Bright-summer-seamless-pattern-with.jpg);
+    background-size: cover;
+    background-size: contain;
+    background-attachment: fixed;
+    font-family: Arial,sans-serif;
+    font-size: 13;
+    }
+
+h1,h2,h3{
+    font-family: 'Proza Libre', sans-serif;
+    font-family: 'Gloria Hallelujah', cursive;
+    transition: all 2s;
+    color: 	red;
+    }
+
+h2,h3{
+  border-top-style: dashed;
+  border-right-style: double;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+  border-top-color : 	orangered;
+  border-top-width: 4px;
+  border-left-width: 3px;
+  background-color:	#FF1493;
+    background-color: 	#FFEFD5;
+  }
+    
+h1:hover{
+    color:	#7FFF00;
+    font-size: 60px;
+    border-color: black;
+    }
+
+div p{
+    font-family: 'Proza Libre', sans-serif;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-size: 200%;
+}
+
+li{
+    border-bottom-color: bisque;
+    background-attachment: local;
+    background: light purple;
+
+}
+
+
