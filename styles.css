@@ -25,7 +25,7 @@ h2,h3{
   border-top-width: 4px;
   border-left-width: 3px;
   background-color:	#FF1493;
-    background-color: 	#FFEFD5;
+  background-color: 	#FFEFD5;
   }
     
 h1:hover{
@@ -48,4 +48,23 @@ li{
 
 }
 
+a:focus{
+   outline: thick solid purple;
+}
 
+.sidebar {
+    position: absolute;
+    top:0;
+    right: 0;
+    background-color: oldlace;
+    opacity: 0.5;
+    width: 200px;
+    height: 400%    
+}
+
+a{
+    color: deeppink;
+}
+h3{
+    font-family: 'Swanky and Moo Moo', cursive;
+}
